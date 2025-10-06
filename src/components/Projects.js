@@ -28,7 +28,7 @@ export default function Projects() {
         <div className="w-1/2 flex flex-col px-10 py-5">
         
          <h1 className='text-4xl border-b-4 border-primary  mb-5 w-[170px] font-bold '>Projects</h1>
-         <p>Developed and maintained full-stack web applications using Python (Django/Flask) for the backend and React for the frontend. Implemented RESTful APIs, handled user authentication, and performed CRUD operations with databases such as MySQL, PostgreSQL, or MongoDB. Built responsive and interactive UIs with React components and hooks, ensuring seamless user experience across devices. Collaborated on version control using Git/GitHub and deployed applications on cloud platforms like AWS, Heroku, or Vercel. Gained hands-on experience in integrating frontend and backend technologies to deliver scalable, secure, and efficient web solutions..</p>
+         <p></p>
         </div>
         
         <div className='w-full'>
@@ -38,7 +38,7 @@ export default function Projects() {
                     <div className='relative'>
                        <img  className='h-[200px] w-[500px]' src={project.Image}/>
                        <div className='project-desc'>
-                           <p className='text-center px-5 py-5'>{project.description}</p>
+                           <p className='text-center px-2 py-2'>{project.description}</p>
                            <div className='flex justify-center'>
                           <a className='btn' target='_blank' href={project.link}>View Project</a>
                        </div>
