@@ -19,7 +19,7 @@ export default function Projects() {
             {
                 Image: WebsiteImag3,
                 description:'The Portfolio App is a personal/professional application designed to showcase an individual’s skills, projects, achievements, and experience in a modern, interactive way. It provides a digital alternative to traditional resumes, allowing users to present their work creatively and professionally.',
-                link:''
+                link:'https://github.com/ashiqali270/Protfolio-react-app'
 
             }
         ]
