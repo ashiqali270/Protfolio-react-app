@@ -6,8 +6,8 @@ export default function Hero() {
     const config = {
         subtitle:'Python Developer ',
         social : {
-            twitter:'WWw.TWITTER.COM',
-            LiaLinkedin:'www.linkedin.com/in/ashiq-ali-932952a9',
+            twitter:'https://x.com/?lang=en',
+            LiaLinkedin:'https://www.linkedin.com/in/ashiq-ali-99235a2a9/',
             github:'https://github.com/ashiqali270'
             
         }
