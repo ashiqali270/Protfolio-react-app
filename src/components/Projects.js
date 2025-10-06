@@ -6,19 +6,19 @@ export default function Projects() {
         Projects : [
             {
                 Image: WebsiteImag1,
-                description:'The Shopping App is a mobile/web-based e-commerce platform designed to provide users with a smooth and convenient online shopping experience. It allows customers to browse products, add items to the cart, make secure payments, and track orders in real-time.',
+                description:'The Shopping App is a mobile/web-based e-commerce platform designed to provide users with a smooth and convenient online shopping experience.',
                 link:'https://github.com/ashiqali270/shoping-python-app'
 
             },
             {
                 Image: WebsiteImag2,
-                description:'The Traveling App is a mobile/web application designed to make trip planning, booking, and traveling easier for users. It provides a one-stop solution for searching destinations, booking tickets, reserving hotels, and exploring travel experiences.',
+                description:'The Traveling App is a mobile/web application designed to make trip planning, booking, and traveling easier for users.',
                 link:'https://github.com/ashiqali270/travel-python-app'
 
             },
             {
                 Image: WebsiteImag3,
-                description:'The Portfolio App is a personal/professional application designed to showcase an individual’s skills, projects, achievements, and experience in a modern, interactive way. It provides a digital alternative to traditional resumes, allowing users to present their work creatively and professionally.',
+                description:'The Portfolio App is a personal/professional application designed to showcase an individual’s skills, projects, achievements, and experience in a modern, interactive way. ',
                 link:'https://github.com/ashiqali270/Protfolio-react-app'
 
             }
